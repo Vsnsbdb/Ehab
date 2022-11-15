@@ -1,58 +1,82 @@
-
-# بوت ابن اليمن يرحب بكم
-
-
-
-
-<h1 align="center">ꪝ🇾🇪إأبـטּٱإڵيمـטּ🇾🇪ꪝ<br></h1>
-<p align="center">
-<img src="http://1.bp.blogspot.com/-NEXDRnKVAUE/YPWg3GOZsjI/AAAAAAAACEY/N78SkHWq54cvIOT-ATU_iBZRDY3CXREWgCK4BGAYYCw/s1600/20210719_171323.gif" alt="animated" width="540" height="280" />
-</p>
-
-<p align="center">
-
-<a href="#"><img title="BAGIRA ID" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
-
-</p>
-
-<p align="center">
-
-<a href="https://d.top4top.io/s_2021hqnie0.jpeg"><img title="Author" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/fox-alaam/BAGIRABOT2/followers"><img title="Followers" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
-
-<a href="https://github.com/fox-alaam/BAGIRABOT2/stargazers/"><img title="Stars" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
-
-<a href="https://github.com/fox-alaam/BAGIRABOT2/network/members"><img title="Forks" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
-
-<a href="https://github.com/fox-alaam/BAGIRABOT2/watchers"><img title="Watching" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fbagirabot&count_bg=%2379C83D&title_bg=%23555555&icon=lmms.svg&icon_color=%23E8E8E8&title=bagirabot&edge_flat=true"/></a>
-
-</p>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
-
 <div align="center">
 
-<details>
+  <p align="center">
 
- 
+<img src="https://telegra.ph/file/b8e8a0b9a9e4d8ab0fed0.jpg" alt="GIF" width="300" height="270"/>
 
-</details>
+</p>
 
----------------------------------   
+  <p align="center">
 
- ###  Developer : Hawbani-YT
+<a href="#"><img title="Astro-MD" src="https://img.shields.io/badge/astro-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+</p>
+
+</div>
+
+#### <p align="center">By Vihanga YT| © | Reserved  </br> 
+
+# ASTRO-BOT-MD-V1.0
+
+#### TOTAL REPO VIEWS📍
+
+![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+
+    [©] AstroBot-MD New Features
+
+     > Playstore Apk Downloder [.downapk]
+
+     > Playstore Apk searcher [.apk]
+
+     > ATTP [.ttp]
+
+     > Tts [.tts]
+
+     > Pemoji [.pemoji]
+
+     > Movie searcher [.movie]
+
+     > Spotify down and searcher [.spotify]
+
+     > and more...  
+
+   
+
+   ```Thanks Fro using Astro-MD```
+
+   
+
+# Support Group <a href="https://chat.whatsapp.com/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+Astro+MD+WA+BOT.;CREATED+BY+VIHANGA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+
+ </a>
+
+</p>
+
+ ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
+
+1. Click [SCAN](https://astro-qr.astromdqr.repl.co/) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+
+2. Click [FORK](https://github.com/vihangayt0/Astro-MD/fork)
+
+2. After That Upload Session.json File
+
+3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+
+5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
+
+## Owner:
+
+* [`Vihanga-YT`](https://github.com/vihangayt0)
 
 ## Thanks To
-##### ◉[@adiwajshing](https://github.com/adiwajshing/) for coded.
-##### ◉[@yusufusta](https://github.com/yusufusta/) for coded.
-##### ◉[@SamPandey001](https://github.com/SamPandey001) For session and multi file auth State.
-##### ◉[@sanuwaofficial](https://github.com/sanuwaofficial) for apk downloader and help. 
-##### ◉[@edm-official](https://github.com/edm-official) for base and help.
-##### ◉[@DarkMakerofc](https://github.com/DarkMakerofc) for help. 
+
+* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+
+* [`MR.Nima`](https://github.com/DarkMakerofc)
+
+* [`EDM-OFFICIAL`](https://github.com/edm-official)
+
+* [`Sanuwa-Official`](https://github.com/sanuwaofficial)
+
