@@ -19,7 +19,10 @@
    
   ### الموقـــــــع التصـــــــوير الكـــــــود
 
-[![Run on Repl.it](https://astro-qr.astromdqr.repl.co/) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.)
+[![Run on Repl.it]](https://astro-qr.astromdqr.repl.co/) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+
+2. Click [FORK](https://github.com/vihangayt0/Astro-MD/fork)
+
 
 ## مـــــــوقع هيـــــــريكو
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/EhabAlHawbani/Ehab_Al_Hawbani)
