@@ -9,21 +9,41 @@
 <img src="http://1.bp.blogspot.com/-NEXDRnKVAUE/YPWg3GOZsjI/AAAAAAAACEY/N78SkHWq54cvIOT-ATU_iBZRDY3CXREWgCK4BGAYYCw/s1600/20210719_171323.gif" alt="animated" width="540" height="280" />
 </p>
 
-
-## ```مواقع اتواصل الاجتماعي```
 <p align="center">
-<a href="https://wa.me/967711801610"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/Ix7gDpYxLsN5w30H8p2qvT"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCIaxJbU4cajlHHPtzhsgvAA"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCIaxJbU4cajlHHPtzhsgvAA" /><br>
+
+<a href="#"><img title="BAGIRA ID" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
+
 </p>
 
-   
-  ### الموقـــــــع التصـــــــوير الكـــــــود
+<p align="center">
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@SamPandey001/Hawbani?output%20only=1&lite=1#index.js)
+<a href="https://d.top4top.io/s_2021hqnie0.jpeg"><img title="Author" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
 
-## مـــــــوقع هيـــــــريكو
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/EhabAlHawbani/Ehab_Al_Hawbani)
+</p>
+
+<p align="center">
+
+<a href="https://github.com/fox-alaam/BAGIRABOT2/followers"><img title="Followers" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
+
+<a href="https://github.com/fox-alaam/BAGIRABOT2/stargazers/"><img title="Stars" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
+
+<a href="https://github.com/fox-alaam/BAGIRABOT2/network/members"><img title="Forks" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
+
+<a href="https://github.com/fox-alaam/BAGIRABOT2/watchers"><img title="Watching" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fbagirabot&count_bg=%2379C83D&title_bg=%23555555&icon=lmms.svg&icon_color=%23E8E8E8&title=bagirabot&edge_flat=true"/></a>
+
+</p>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
+
+<div align="center">
+
+<details>
+
+ 
+
+</details>
 
 ---------------------------------   
 
